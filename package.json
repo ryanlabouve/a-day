@@ -2,6 +2,7 @@
   "name": "a-day",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ryanlabouve.github.io/a-day",
   "dependencies": {
     "numeral": "^2.0.6",
     "react": "^16.1.1",

@@ -1,3 +1,13 @@
+# A Day
+
+I always have the idea of like... "how much would I need to make a day for this silly idea to work."
+
+Build this little thing-y to assist my ponderings.
+
+Below is the default readme:
+
+--------
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
